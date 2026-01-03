@@ -1,0 +1,12 @@
+streamlit>=1.30
+torch
+transformers
+evaluate
+openai-whisper
+ffmpeg-python
+imageio-ffmpeg
+nltk>=3.8.1
+spacy
+numpy
+sentencepiece
+accelerate
